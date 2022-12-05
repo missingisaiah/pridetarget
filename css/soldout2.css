@@ -101,9 +101,9 @@ p {
   <body>
     <header>
       <ul>
-        <li><a href="goal.html">Our Goal</a></li>
-        <li><a href="countdown.html">Countdown</a></li>
-        <li><a href="designers.html">Meet the Designers</a></li>
+        <li><a href="goal2.html">Our Goal</a></li>
+
+        <li><a href="designers2.html">Meet the Designers</a></li>
       </ul>
       <a href="index2.html">
 
@@ -112,7 +112,7 @@ p {
 
       <div class="topnav">
         <div class="search-container">
-          <form action="wcfwywlf.html">
+          <form action="wcfwywlf3.html">
             <input type="text" placeholder="Search..." name="search">
             <button type="submit"><i class="fa fa-search"></i></button>
           </form>
